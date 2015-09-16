@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 緣生論
+#+DATE: 2015-08-30 21:00:13.879407
+#+PROPERTY: JUAN 0
